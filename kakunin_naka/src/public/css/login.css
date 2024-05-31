@@ -1,0 +1,28 @@
+form {
+    text-align: center;
+}
+.login_form_top {
+width: 300px;
+margin: 0 auto;
+text-align: center;
+
+}
+
+.login_form_mid {
+    width: 200px;
+    background-color: #777777;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.login_form_btm {
+    padding: 10px 0;
+    background-color: #F7F7F7;
+    margin: 10px 0;
+}
+
+input {
+    width: 200px;
+    padding: 3px;
+    margin: 5px 0;
+}
