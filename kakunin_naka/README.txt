@@ -17,4 +17,4 @@ URL
 ・phpMyAdmin:http://localhost:8080/
 
 アプリケーション名
-kakunin_naka  (kakunin とnakaの間にアンダーバーが入っていますがテキストで入力すると表記されない)
+kakunin_naka   ??
