@@ -15,3 +15,6 @@ Laravel環境構築
 URL
 ・開発環境：http://localhost/
 ・phpMyAdmin:http://localhost:8080/
+
+アプリケーション名
+kakunin_naka  (kakunin とnakaの間にアンダーバーが入っていますがテキストで入力すると表記されない)
