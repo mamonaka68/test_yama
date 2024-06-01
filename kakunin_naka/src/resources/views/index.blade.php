@@ -45,8 +45,8 @@
         </div>
         <div class="form__group">
           <div class="form__group-title">
-            <span class="form__label--item">性別</span>
-            <span class="form__label--required">必須</span>
+            <span class="form__label--item">性別*</span>
+            <span class="form__label--required"></span>
           </div>
           <div class="form__group-content">
             <!--<div class="form__input2--text"> -->
@@ -67,8 +67,8 @@
 
         <div class="form__group">
           <div class="form__group-title">
-            <span class="form__label--item">メールアドレス</span>
-            <span class="form__label--required">必須</span>
+            <span class="form__label--item">メールアドレス*</span>
+            <span class="form__label--required"></span>
           </div>
           <div class="form__group-content">
             <div class="form__input--text">
@@ -81,8 +81,8 @@
         </div>
         <div class="form__group">
           <div class="form__group-title">
-            <span class="form__label--item">電話番号</span>
-            <span class="form__label--required">必須</span>
+            <span class="form__label--item">電話番号*</span>
+            <span class="form__label--required"></span>
           </div>
           <div class="form__group-content">
             <div class="form__input3--text">
@@ -99,8 +99,8 @@
         </div>
         <div class="form__group">
           <div class="form__group-title">
-            <span class="form__label--item">住所</span>
-            <span class="form__label--required">必須</span>
+            <span class="form__label--item">住所*</span>
+            <span class="form__label--required"></span>
           </div>
           <div class="form__group-content">
             <div class="form__input--text">
@@ -114,7 +114,7 @@
         <div class="form__group">
           <div class="form__group-title">
             <span class="form__label--item">建物名</span>
-            <span class="form__label--required">必須</span>
+            <span class="form__label--required"></span>
           </div>
           <div class="form__group-content">
             <div class="form__input--text">
@@ -127,8 +127,8 @@
         </div>
         <div class="form__group">
           <div class="form__group-title">
-            <span class="form__label--item">お問い合わせの種類</span>
-            <span class="form__label--required">必須</span>
+            <span class="form__label--item">お問い合わせの種類*</span>
+            <span class="form__label--required"></span>
           </div>
           <div class="form__group-content">
               <select name="select">
@@ -145,7 +145,7 @@
         </div>
         <div class="form__group">
           <div class="form__group-title">
-            <span class="form__label--item">お問い合わせ内容</span>
+            <span class="form__label--item">お問い合わせ内容*</span>
           </div>
           <div class="form__group-content">
             <div class="form__input--textarea">
